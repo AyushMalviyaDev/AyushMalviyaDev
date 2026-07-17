@@ -1,41 +1,80 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<div align="center">
 
-I’m **Ayush**, a backend-focused developer from India.
+<img src="https://media.tenor.com/7Q1P0V5r0j4AAAAC/guts-berserk.gif" width="100%" />
 
-I love building systems, tools, and projects that solve real problems — and if an idea hits my mind, I *have* to turn it into something real. Creating things is my default mode.
+# ⚔️ Ayush Malviya (aka Ayushiya)
 
-My main tech stack includes **Django**, **C++**, **React**, and **Python**.  
-I enjoy designing architectures, optimizing logic, and building things that feel clean, fast, and purposeful.
+### *"Struggle. Endure. Keep Building."*
 
-#### 🔹 Fun Facts:
-- I’m into **F1, chess, Minecraft, philosophy, drawing, meditation, and music**.
+Backend Developer • Django • C++  • Python
 
-### Skills 
+</div>
+
+---
+
+## ⚔️ About Me
+
+
+Hey there! 👋
+
+I'm **Ayush**, a backend-focused developer from India.
+
+I enjoy building systems, tools, and products that solve real problems. Creating things is my default mode—if an idea gets stuck in my head, I have to turn it into something real.
+
+My focus is writing clean, scalable code, designing efficient architectures, and building software that's fast, reliable, and purposeful.
+
+> **"Struggle. Endure. Keep moving forward."**
+
+---
+
+# ⚔ Arsenal
+
 <table align="center">
 <tr>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="42"></td>
 </tr>
 
 <tr>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="42"></td>
 </tr>
 
 <tr>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"></td>
-<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="42"></td>
+<td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="42"></td>
 </tr>
 </table>
+
+---
+
+# ⚔ Beyond Code
+
+* 🏎 Formula 1
+* ♟ Chess
+* ⛏ Minecraft
+* 📖 Philosophy
+* 🧘 Meditation
+* 🎵 Music
+
+---
+
+<div align="center">
+
+### 🩸 *"The only thing you're responsible for is carving your own path."*
+
+<img src="https://giffiles.alphacoders.com/190/190013.gif" width="40%">
+
+</div>
